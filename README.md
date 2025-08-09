@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Mock Interview Platform
+
+An AI-powered mock interview platform built with Next.js, React, and Firebase to help users practice and improve their interview skills using advanced AI technologies.
+
+---
+
+## Features
+
+- AI-driven mock interview simulations
+- User authentication and profile management with Firebase
+- Dynamic form handling and validation using React Hook Form and Zod
+- Theming support with `next-themes`
+- Responsive and accessible UI using Tailwind CSS and Radix UI components
+- Integration with AI SDKs for intelligent question generation and feedback
+- Server-side rendering and optimized performance with Next.js
+
+---
+
+## Technologies Used
+
+- **Next.js (15.4.5)** – React framework for SSR and static generation  
+- **React (19.1.0)** – UI library  
+- **Firebase & Firebase Admin SDK** – Backend services and server-side Firebase operations  
+- **React Hook Form** – Form state management and validation  
+- **Zod** – Schema validation  
+- **Tailwind CSS** – Utility-first CSS framework  
+- **Radix UI** – Accessible React UI primitives  
+- **AI SDKs (@ai-sdk/google, @vapi-ai/web, ai)** – AI integrations for interview simulations  
+- **TypeScript** – Static type checking  
+
+---
 
 ## Getting Started
 
-First, run the development server:
+### Installation
+
+1. Clone the repository:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/Webprojon/ai-mock-interview-platform
+cd ai-mock-interview-platform
 ```
+### Demo Url
+[ai-mock-interview-platform.vercel.app](https://my-ai-mock-interview-platform.vercel.app/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+📫 **How to reach me:**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Portfolio: [tokhirjon.vercel.app](https://tokhirjon.vercel.app)
+- LinkedIn: [linkedin/tokhirjon-khasanov](https://www.linkedin.com/in/tokhirjon-khasanov/)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
