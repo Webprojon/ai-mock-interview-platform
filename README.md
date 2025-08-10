@@ -1,6 +1,9 @@
 # AI Mock Interview Platform
 
+
 An AI-powered mock interview platform built with Next.js, React, and Firebase to help users practice and improve their interview skills using advanced AI technologies.
+
+> The AI voice agent is under repair
 
 ---
 
